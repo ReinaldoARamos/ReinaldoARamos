@@ -6,39 +6,31 @@
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-         <a href="https://www.linkedin.com/in/reinaldo-aparecido/"  target="_blank">
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/dudu-cardoso/">
+        <a href="https://www.linkedin.com/in/reinaldo-aparecido/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
-
+    </p>
 </div>
-
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReinaldoARamos&show_icons=true&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinaldoARamos&layout=compact&langs_count=7&theme=dark" /></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinaldoARamos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,js,css,ts,react,nodejs,nextjs,styledcomponents,git,vite&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,prisma,postgres,tailwind,git,vite&perline=10" />
 </p>
 
+<div align="center">
 
-<div align="center"> 
-    
- # Hey👋I'm Reinaldo.
-<br/>
-- I'm studying  to become a front-end developer ⚛️
-<br/>
-- always learning and trying to be better  📖
-<br/>
+# Hey 👋 I'm Reinaldo
 
--My favorite part of the day is coding with a cup of coffee ☕
-<br/>
-
-
-
-
+💻 Full-Stack Developer focused on building modern web applications
+⚛️ React & Next.js for Front-end development
+🟢 Node.js, Express & Prisma for Back-end development
+🚀 Always building, learning, and improving
+☕ My favorite part of the day is coding with a cup of coffee
 
 </div>
